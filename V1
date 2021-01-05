@@ -1,0 +1,304 @@
+#EXTM3U
+
+
+#EXTINF:-1, HBO adictosalatele.com
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180630/arz/kisspng-hbo-com-logo-television-show-hbo-logo-5b382ca1dfff15.5955810315304080979175.jpg",HBO (1)
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/lbqtn3.m3u8?s=VbEjmeCd7kz_Gl5SVMH0iw&e=1609823666
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180630/arz/kisspng-hbo-com-logo-television-show-hbo-logo-5b382ca1dfff15.5955810315304080979175.jpg",HBO (2)
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/lbqtn3.m3u8?s=YkP1zxAfoWGiQGUkM_P7Iw&e=1609834422
+
+#EXTINF:-1 tvg-logo="",HBO2
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/x5r58d0omlmqph.m3u8?s=7fyfH1z5vU0BG2xzzv1NVA&e=1609834423
+
+#EXTINF:-1 tvg-logo="",HBO PLUS+
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/3dgzjbpy.m3u8?s=njPLwT37BpLCKbE1uDiZTQ&e=1609834425
+
+#EXTINF:-1 tvg-logo="",HBO FAMILY
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/mfobze65eqg.m3u8?s=8MtPPKTYLmDxuSM2c_i2eQ&e=1609834427
+
+#EXTINF:-1 tvg-logo="",HBO SIGNATURA
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/g05mnm.m3u8?s=cg7xYAVsCzTWn7RYWU4bCA&e=1609834430
+
+#EXTINF:-1 tvg-logo="",HBO EXTREME
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/way71f4yp5a3.m3u8?s=IcR1vH1AcnwZSbkJImEQSA&e=1609834431
+
+#EXTINF:-1 tvg-logo="",HBO MUNDI
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/8nviuzdhm5jnu.m3u8?s=lIwl6DL_aWwVfz7u0UeuDg&e=1609834434
+
+#EXTINF:-1 tvg-logo="",HBO POP
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/rvqh1fziz.m3u8?s=13Hyj_H1TX2TKpQjZH2XAg&e=1609834436
+
+
+
+
+#EXTINF:-1, FOX adictosalatele.com
+
+#EXTINF:-1 tvg-logo="",FOX
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/0e733j.m3u8?s=gN2u_pJf43g9JMf2qcPVfg&e=1609889026
+
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Fox_Premium_Action#/media/Archivo:LOGO-FOX-ACTION.png",FOX ACTION PREMIUM (1)
+https://live.televisiongratishd.com/tvplus2021/138_.m3u8?token=b-LkUpHNU47-ofn-iddj1A&expires=1609826137&ip=181.58.251.176
+
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Fox_Premium_Action#/media/Archivo:LOGO-FOX-ACTION.png",FOX ACTION PREMIUM (2)
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/4612rwe.m3u8?s=HXVG-0FylfpjmsPk8eElhg&e=1609832976
+
+#EXTINF:-1 tvg-logo="",FOX SERIES PREMIUM
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/in515ybo3y.m3u8?s=GMhfCuF9kqgfJEZhE58zWQ&e=1609832977
+
+#EXTINF:-1 tvg-logo="",FOX FAMILY PREMIUM
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/goks9npik9.m3u8?s=XYM1uRuIwIVghuUWukHvWg&e=1609832979
+
+#EXTINF:-1 tvg-logo="",FOX CINEMA PREMIUM
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/5s69x53079q85.m3u8?s=rE63-o2PMuwnxhl89mk7Wg&e=1609832980
+
+#EXTINF:-1 tvg-logo="",FOX COMEDY PREMIUM
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/pnc0det5nknvqo.m3u8?s=swjAsxqQYmXZDu7MNRvhUQ&e=1609832981
+
+#EXTINF:-1 tvg-logo="",FOX MOVIES PREMIUM
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/4dtc368405sw4mo.m3u8?s=ESsKq9h0qPBjhz6err09Kg&e=1609833596
+
+#EXTINF:-1 tvg-logo="",FOX LIFE PREMIUM
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/aa03um3.m3u8?s=EM1XRBsKvBVEqLegkOiBDA&e=1609833923
+
+
+
+
+#EXTINF:-1, MUSICA LATINA VARIOS adictosalatele.com
+
+#EXTINF:-1 tvg-logo="",MTV
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/1ojmxycsqiiy8.m3u8?s=iyajcoHlma8rdsjGGxYHJw&e=1609832390
+
+#EXTINF:-1 tvg-logo="",MTV HITS
+https://live.televisiongratishd.com/tvplus2021/88_.m3u8?token=SLu6ouyvDnhe8jwVK3bhgg&expires=1609888440&ip=181.58.251.176
+
+#EXTINF:-1 tvg-logo="",BANDAMAX
+https://live.televisiongratishd.com/tvplus2021/90_.m3u8?token=5vw0N_DNKYBCMozp8a9GEA&expires=1609888592&ip=181.58.251.176
+
+#EXTINF:-1 tvg-logo="",TELEHIT
+https://live.televisiongratishd.com/tvplus2021/122_.m3u8?token=TRFRZ5Tz-ZS62yqJRuk1TQ&expires=1609839602&ip=181.58.251.176
+
+
+
+
+#EXTINF:-1, CINE LATINO adictosalatele.com
+
+#EXTINF:-1 tvg-logo="",GOLDEN 
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/lnxn10nmtnl5.m3u8?s=6myyKgV52IqRdLv-5nGyZQ&e=1609835519
+
+#EXTINF:-1 tvg-logo="",GOLDEN PLUS+
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/daw8b.m3u8?s=FbiqCIATjJ8kWhYcpb3Frg&e=1609835520
+
+#EXTINF:-1 tvg-logo="",GOLDEN EDGE
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/daw8b.m3u8?s=FbiqCIATjJ8kWhYcpb3Frg&e=1609835520
+
+#EXTINF:-1 tvg-logo="",CINEMAX
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/ztv7sh.m3u8?s=id0H4s8atzyfaLoLavanpA&e=1609835891
+
+#EXTINF:-1 tvg-logo="",CINECANAL
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/ymv0a1aobkxuf.m3u8?s=ZVONJXcSDC3E8XGp3jpYVA&e=1609835894
+
+#EXTINF:-1 tvg-logo="",TNT
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/ymv0a1aobkxuf.m3u8?s=ZVONJXcSDC3E8XGp3jpYVA&e=1609835894
+
+#EXTINF:-1 tvg-logo="",TNT SERIES
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/uw2t3eem.m3u8?s=U_suMj8xuUPUdpiLa3Xa-g&e=1609835898
+
+#EXTINF:-1 tvg-logo="",AXN
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/l051rl.m3u8?s=0x9UkilOk_lk-yPvbjhhPg&e=1609836253
+
+#EXTINF:-1 tvg-logo="",UNIVERSAL CHANNEL
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/d77wqro8917ua5z.m3u8?s=OGA6IjXnbMq5GB0RCpiOUQ&e=1609836452
+
+#EXTINF:-1 tvg-logo="",A&E
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/1md5d55ngm.m3u8?s=LI7i36xx8xF4u9TCJmr2Mg&e=1609838139
+
+#EXTINF:-1 tvg-logo="",AMC
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/md6vp5fj8yj7l1h.m3u8?s=RCwVqB5jl_19DXWeyCn0ng&e=1609836252
+
+#EXTINF:-1 tvg-logo="",TCM
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/eueu7.m3u8?s=_7PIUUW4k4pm0KQZVsrFrw&e=1609836254
+
+#EXTINF:-1 tvg-logo="",FX
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/3cuvpp5n.m3u8?s=bbjQ59UnM-BHqrFOcK2rqg&e=1609836260
+
+#EXTINF:-1 tvg-logo="",SPACE
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/me4gtt8v3fmket.m3u8?s=47_kYN2Av--U0VXNZ3C5BA&e=1609836263
+
+#EXTINF:-1 tvg-logo="",COMEDY CENTRAL
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/4qox4.m3u8?s=wX_qKnZguGBt1teGU2fZgw&e=1609836435
+
+#EXTINF:-1 tvg-logo="",DISTRITO COMEDIA
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/3cmcveklru0.m3u8?s=-bRhkFc8I4_NmI_VgG2Ryg&e=1609836443
+
+#EXTINF:-1 tvg-logo="",STUDIO UNIVERSAL
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=dHvPu4zbyIBZDsbSt-V4kw&e=1609836449
+
+#EXTINF:-1 tvg-logo="",DE PELICULA
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/1zrltg3e.m3u8?s=-VeZXoUiWsm6SKGTc-llgg&e=1609836454
+
+
+
+
+#EXTINF:-1, TV LATINA VARIOS adictosalatele.com
+
+#EXTINF:-1 tvg-logo="",TELENOVELAS
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/lmjmb1tcvkbgm0.m3u8?s=n1lJGFiXDEiSkXkEZAsX2g&e=1609832385
+
+#EXTINF:-1 tvg-logo="",CANAL DE LAS ESTRELLAS
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/dscs0wr97wf.m3u8?s=9fGeTfG2DJ6FajTzu_-sTA&e=1609832387
+
+#EXTINF:-1 tvg-logo="",AZTECA CINEMA
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/nxlhxl.m3u8?s=nrWoqlCRCIJOogUk-3joIw&e=1609832765
+
+
+
+
+#EXTINF:-1, DEPORTES adictosalatele.com
+
+#EXTINF:-1 tvg-logo="",ESPN+ ARG 
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/gvvlyx08sj7.m3u8?s=im-3mXyiBGJxV-iaG7PS3g&e=1609832224
+
+#EXTINF:-1 tvg-logo="",ESPN ARG 
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/yzfwp0ngkv.m3u8?s=I74er8cfb5O_8wy7JUoVJQ&e=1609831386
+
+#EXTINF:-1 tvg-logo="",ESPN2 ARG 
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/xqnp3kvij9pvoub.m3u8?s=WjnWSET4B7pkTGE_7_Hrzg&e=1609831205
+
+#EXTINF:-1 tvg-logo="",ESPN3 ARG 
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/30lli7indcom.m3u8?s=OiHHeO8JlnuRA42zfRHRwA&e=1609831206
+
+#EXTINF:-1 tvg-logo="",ESPN MEX 
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/sojfama15q3qdvv.m3u8?s=2BRxmBHQrfDVzWztg6fBcw&e=1609832026
+
+#EXTINF:-1 tvg-logo="",ESPN2 MEX 
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/d7pu5zligobina.m3u8?s=bcKWwFkTPfrjufyXXe1rPA&e=1609832027
+
+#EXTINF:-1 tvg-logo="",ESPN3 MEX
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/55969ysaajd0z.m3u8?s=cJUX2iqdYadF3bfMakTxQw&e=1609832028
+
+#EXTINF:-1 tvg-logo="",TNT SPORTS
+https://live.televisiongratishd.com/tvplus2021/9_.m3u8?token=Ciu9aZbUAHlAXc-xLXeplw&expires=1609888704&ip=181.58.251.176
+
+
+
+
+#EXTINF:-1, INFANTILES adictosalatele.com
+
+#EXTINF:-1 tvg-logo="",CARTOON NETWORK
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/1feji.m3u8?s=wXmAWj5WeFVYJmAhgESQBQ&e=1609836825
+
+#EXTINF:-1 tvg-logo="",DISCOVERY KIDS
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/rw14ff8tl5.m3u8?s=nVKMw7biwIFa-KUhGTxiFA&e=1609836826
+
+#EXTINF:-1 tvg-logo="",DISNEY JUNIOR
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/inkizfn6wve8oc.m3u8?s=BD8d065MmUx8dohfiapnPw&e=1609837044
+
+#EXTINF:-1 tvg-logo="",DISNEY XD
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/12dyavowb6wnxh3.m3u8?s=mw500GvxjjKdlyASLONewQ&e=1609836835
+
+#EXTINF:-1 tvg-logo="",DISNEY CHANNEL
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/96859.m3u8?s=D3ATmefrbCAOz3zJuEE6ZA&e=1609836964
+
+#EXTINF:-1 tvg-logo="",NICK
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=vRP2TKLGDqmRcNlU5h_m6w&e=1609836966
+
+#EXTINF:-1 tvg-logo="",NICKTOONS
+https://live.televisiongratishd.com/tvplus2021/111_.m3u8?token=FMMXBkXGbLgZkcxakkskEQ&expires=1609839449&ip=181.58.251.176
+
+#EXTINF:-1 tvg-logo="",NICK MUSIC
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/vgwtkzk.m3u8?s=KqnhSP9HcdUvsnw8aX9ckg&e=1609836967
+
+#EXTINF:-1 tvg-logo="",BABYFIRST
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/l8z0taw5y.m3u8?s=yXl-ICr_m_Dl8Ze2kUGqOg&e=1609837159
+
+#EXTINF:-1 tvg-logo="",BOOMERANG
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/hmnf8ejk.m3u8?s=0OjxedG87SFIdPp6RGpi7g&e=1609837307
+
+
+
+
+#EXTINF:-1, DOCUMENTALES adictosalatele.com
+
+#EXTINF:-1 tvg-logo="",DISCOVERY CHANNEL
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/u0czbjc3uvc.m3u8?s=gpep3r9aboeDi3Iz4FykPg&e=1609837512
+
+#EXTINF:-1 tvg-logo="",DISCOVERY MAX
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/stkez.m3u8?s=a4-6MpaVyS6Q02fn89jb3g&e=1609837514
+
+#EXTINF:-1 tvg-logo="",TLC DISCOVERY
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/yfbm3.m3u8?s=GYVKgVEoXz6vqiZcBYL8MA&e=1609837738
+
+#EXTINF:-1 tvg-logo="",DISCOVERY TURBO
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/xi6ufvw.m3u8?s=_Rs7Zf9JPXNbGRwJlBS2Yw&e=1609837741
+
+#EXTINF:-1 tvg-logo="",DISCOVERY THEATER
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/pbvl9d3hcvei.m3u8?s=YFN4TtZhA4AyB5P_aKNn2Q&e=1609838001
+
+#EXTINF:-1 tvg-logo="",DISCOVERY SCIENCE
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/5l6qgxmom.m3u8?s=MKwqBn8F95uRsX8dfKcD_Q&e=1609837887
+
+#EXTINF:-1 tvg-logo="",DISCOVERY INVESTIGACION
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/1mptcl1.m3u8?s=vGRa5EiaWhohPZ90jQsIRg&e=1609837893
+
+#EXTINF:-1 tvg-logo="",DISCOVERY H&H
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/adtxiz8zv.m3u8?s=Tgiy1a7FBmenfh33gCzSUA&e=1609837893
+
+#EXTINF:-1 tvg-logo="",NATIONAL GEOGRAPHIC
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/kdpyrp6kgiaf2sc.m3u8?s=X2BczVRauvvtOVth_SmHjg&e=1609837900
+
+#EXTINF:-1 tvg-logo="",HISTORY
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/befdsny.m3u8?s=blKKXr3pWxzG6NPYBtzJ_w&e=1609837515
+
+#EXTINF:-1 tvg-logo="",HISTORY 2
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/ypxvs0nyn.m3u8?s=-Cgpfuxx1epky7RT_WKG6A&e=1609838137
+
+#EXTINF:-1 tvg-logo="",NATIONAL GEOGRAPHIC
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/wdmmae714u.m3u8?s=50AvJAgAuYub2mUFQFWCWw&e=1609837515
+
+#EXTINF:-1 tvg-logo="",NATIONAL GEOGRAPHIC WILD
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/7f8nn022rm13tlz.m3u8?s=Hwx1AyyXsyb804pjS_RrKg&e=1609837516
+
+#EXTINF:-1 tvg-logo="",BLAZE
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/s2jxclsc.m3u8?s=d5x7E9AeUUVRJ3TWfP_9EA&e=1609837516
+
+#EXTINF:-1 tvg-logo="",ANIMAL PLANET
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/zfwban4sppn0.m3u8?s=MOtQ4OQhH0bI8uNOozn2zQ&e=1609838140
+
+
+
+
+#EXTINF:-1 tvg-logo="",EL GOURMET
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/o040wr8q.m3u8?s=hkrDSnyInq7nP5aQvtDrOw&e=1609837738
+
+
+
+
+#EXTINF:-1, 24/7 televisiongratishd
+
+#EXTINF:-1 tvg-logo="",24/7 TERROR
+https://live.televisiongratishd.com/tvplus2021/196_.m3u8?token=qOKgfOMJG7nwJQ2Gs8pepQ&expires=1609839156&ip=181.58.251.176
+
+#EXTINF:-1 tvg-logo="",24/7 ALF
+https://live.televisiongratishd.com/tvplus2021/128_.m3u8?token=hkVUT9ktcE_YyN_JLOE4Ew&expires=1609839266&ip=181.58.251.176
+
+#EXTINF:-1 tvg-logo="",24/7 DRAGON BALL SUPER
+https://live.televisiongratishd.com/tvplus2021/191_.m3u8?token=U_pbWD02TeATWocoevt6aw&expires=1609839311&ip=181.58.251.176
+
+#EXTINF:-1 tvg-logo="",24/7 EL CHAVO
+https://live.televisiongratishd.com/tvplus2021/150_.m3u8?token=xJRsJKV3K0vOIo1BsmXN5w&expires=1609839360&ip=181.58.251.176
+
+
+
+
+#EXTINF:-1, COLOMBIA adictosalatele.com
+
+#EXTINF:-1 tvg-logo="",CARACOL HD (1)
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/qkzjitm99su7y.m3u8?s=vBYceg0Qxt7uP5LRWNGPwg&e=1609830462
+
+#EXTINF:-1 tvg-logo="",CARACOL HD (2)
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/qkzjitm99su7y.m3u8?s=A6LshehBkH9Je86RP50GAg&e=1609830686
+
+#EXTINF:-1 tvg-logo="",WIN SPORT
+https://live.televisiongratishd.com/tvplus2021/8_.m3u8?token=5iSzm4r9jYuYYJnr_KtZkg&expires=1609888645&ip=181.58.251.176
